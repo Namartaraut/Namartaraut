@@ -2,14 +2,16 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Namrata</h1>
 <h3 align="center">I'm a passionate Data Scientist from India.</h3>
 ## 🙋‍♂️ About Me
+
 - 🔭 I’m currently working on **Topic Modelling using Transformers 🤓**
+
 - 🌱 I’m currently learning **Machine learning and Algorithms.**
 
 - 👯 I’m looking to collaborate on **DL, ML, Research Papers, NLP**
 
 - 📫 How to reach me **rautnamrata22@gmail.com**
 
-- ⚡ Fun fact **I play games.**
+- ⚡ Fun fact **I play games and mathematics**
 ## 🚀 Languages and Tools:
 <p align="left">  
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
