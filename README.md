@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Topic Modelling using Transformers 🤓**
 
-- 🌱 I’m currently learning **Machine learning and Algorithms.**
+- 🌱 I’m currently learning **Data science,Machine learning and its Algorithms.**
 
 - 👯 I’m looking to collaborate on **DL, ML, Research Papers, NLP**
 
